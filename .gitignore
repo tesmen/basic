@@ -1,6 +1,7 @@
 # phpstorm project files
 .idea
-
+/config/db.php
+phinx.yml
 # netbeans project files
 nbproject
 
